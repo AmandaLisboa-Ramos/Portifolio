@@ -1,0 +1,26 @@
+article{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 24px 34px;
+
+}
+
+.Experiência{
+    font-size: 144px;
+    font-weight: bold;
+    line-height: 1;
+    color: #E4E4E4;
+    text-transform: uppercase;
+    width: 365px;
+    height: 432px;
+    word-break: break-word;
+}
+
+.paragrafo-experiencia{
+    font-size: 24px;
+    width: 555px;
+    line-height: 32px;
+    text-align: left;
+    margin-bottom: 53px;
+    margin-top: 8px;
+}
