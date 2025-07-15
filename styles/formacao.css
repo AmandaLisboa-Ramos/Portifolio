@@ -111,11 +111,11 @@
 }
 
 .cursos h3::before {
-  background: url("../img/Curso icon.svg") no-repeat center center;
+  background: url("../img/CursoIcon.svg") no-repeat center center;
 }
 
 .idiomas h3::before {
-  background: url("../img/Idiomas icon.svg") no-repeat center center;
+  background: url("../img/IdiomasIcon.svg") no-repeat center center;
 }
 
 .formacao-extra li {
