@@ -95,6 +95,7 @@
 }
 
 .subtitulo-Git {
+  word-break: break-word;
   padding: 24px;
   font-size: 8rem;
   line-height: 1;
@@ -156,8 +157,10 @@
     grid-template-columns: 1fr;
     gap: 40px;
   }
-  .github .subtitulo {
+  .subtitulo-Git {
     color: #141414;
+    font-size: 3rem;
+    text-transform: capitalize;
   }
 }
 
