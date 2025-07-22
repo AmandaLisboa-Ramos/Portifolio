@@ -59,7 +59,7 @@ O portfólio foi desenvolvido para funcionar bem em dispositivos móveis, tablet
 Se quiser trocar uma ideia, colaborar em projetos ou apenas conversar, estou por aqui:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amanda-lisboa-789a42330/)
-- 📧 Email: [amanda@email.com.br](mailto:amanda@email.com.br)
+- 📧 Email: [amanda@email.com.br](mailto:amandalisboa.am@gmail.com)
 - 💻 [GitHub](https://github.com/amandalisboa-ramos)
 
 ---
